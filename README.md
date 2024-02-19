@@ -1,8 +1,6 @@
 # Costco Pizza Games
-
-
-
-
+## Dev stuff/Things to remember
+### Colors
 - Costco Standard
    - Color 1: #f2c94c
    - Color 2: #f2994a
