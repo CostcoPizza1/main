@@ -1,7 +1,11 @@
 # Costco Pizza Games
 
+## Dev stuff/Things to remember
 
+### Colors
+Background Color: #171818
 
+Navbar/Secondary: #1c1d1d
 
 - Costco Standard
    - Color 1: #f2c94c
