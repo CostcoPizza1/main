@@ -13,14 +13,13 @@
    - Color 1: #d73c43
    - Color 2: #8c1727
 - Rise Client Peony
-   - Color 1: #d73c43
-   - Color 2: #8c1727
+   - Color 1: 
+   - Color 2: 
 - Rise Client Shadow
-   - Color 1: #d73c43
-   - Color 2: #8c1727
+   - Color 1: 
+   - Color 2: 
 - Rise Client Legacy
-   - Color 1: #d73c43
-   - Color 2: #8c1727
+   - Color: #d73c43
 - Creida
-   - Color 1: #d73c43
-   - Color 2: #8c1727
+   - Color 1: 
+   - Color 2: 
