@@ -4,6 +4,7 @@
 
 ### Colors
 Background Color: #171818
+
 Navbar/Secondary: #1c1d1d
 
 - Costco Standard
