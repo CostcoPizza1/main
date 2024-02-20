@@ -5,3 +5,58 @@ body {
     background-color: var(--background-color);
     font-family: var(--font-family);
 }
+
+.centered-container {
+    position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.75rem;
+    padding-bottom: 0%;
+}
+
+.gradientText {
+  --bgSize: 400%;
+  background: linear-gradient(
+      180deg,
+      var(--gradient1),
+      var(--gradient2),
+      var(--gradient1)
+    )
+    0 0 / var(--bgSize) 100%;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: move-bg 10s infinite linear;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .gradientText {
+    animation: move-bg 10s linear infinite;
+  }
+}
+
+@keyframes move-bg {
+  to {
+    background-position: var(--bgSize) 0;
+  }
+}
+
+h2 {
+    font-size: 2.25rem;
+}
+
+#theme-selector {
+  background-color: var(--navbar-color);
+  color: var(--text-color);
+  font-family: var(--font-family);
+  font-weight: bold;
+  padding: 10px 20px; /* Adjust padding as needed */
+  border-radius: 5px; /* Adjust border radius as needed */
+  box-shadow: 0 2px 4px var(--gradient1);
+  border: none;
+}

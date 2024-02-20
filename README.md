@@ -23,11 +23,11 @@ Navbar/Secondary: #1c1d1d
    - Color 1: 
    - Color 2: 
 - Rise Client Legacy
-   - Color: #d73c43
+   - Color: 
 - Creida
    - Color 1: 
    - Color 2: 
 
 ## Credits
-- ArtClass
+- ArtClass (Words cannot descript how usefull you are as a reference)
 - Rise Client

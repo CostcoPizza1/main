@@ -22,6 +22,14 @@ body[theme="satin"] {
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
+body[theme="darkSteel"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #373b44;
+    --gradient2: #4286f4;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
 body[theme="peony"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
@@ -42,6 +50,7 @@ body[theme="legacy"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
     --gradient1: white;
+    --gradient2: white;
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
@@ -53,3 +62,4 @@ body[theme="creida"] {
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
+
