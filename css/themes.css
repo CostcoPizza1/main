@@ -1,0 +1,55 @@
+body[theme="costco"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #f2c94c;
+    --gradient2: #f2994a;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="blend"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #4794fd;
+    --gradient2: #47fda0;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="satin"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #d73c43;
+    --gradient2: #8c1727;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="peony"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: white;
+    --gradient2: white;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="shadow"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: white;
+    --gradient2: white;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="legacy"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: white;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="creida"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: white;
+    --gradient2: white;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}

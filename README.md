@@ -27,3 +27,7 @@ Navbar/Secondary: #1c1d1d
 - Creida
    - Color 1: 
    - Color 2: 
+
+## Credits
+- ArtClass
+- Rise Client

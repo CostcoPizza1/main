@@ -1,13 +1,7 @@
-.themes {
-    color: #171818;
-    color: #1c1d1d;
-    color: #f2c94c;
-    color: #f2994a;
-    color: #4794fd;
-    color: #47fda0;
-    color: #d73c43;
-    color: #8c1727;
-}
+@import url(themes.css);
+
 body {
-    background-color: bg-dark;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-family: var(--font-family);
 }
