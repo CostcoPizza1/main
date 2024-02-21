@@ -33,32 +33,64 @@ body[theme="darkSteel"] {
 body[theme="peony"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
-    --gradient1: white;
-    --gradient2: white;
+    --gradient1: #d0aeff;
+    --gradient2: #e2cff9;
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
 body[theme="shadow"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
-    --gradient1: white;
-    --gradient2: white;
+    --gradient1: #6183ff;
+    --gradient2: #cdd3ff;
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
 body[theme="legacy"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
-    --gradient1: white;
-    --gradient2: white;
+    --gradient1: #70ceff;
+    --gradient2: #70ceff;
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
 body[theme="creida"] {
     --background-color: #171818;
     --navbar-color: #1c1d1d;
-    --gradient1: white;
+    --gradient1: #9ca5e1;
+    --gradient2: #373b50;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="express"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #ac5288;
+    --gradient2: #3e1154;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="bubbleGum"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #f291d8;
+    --gradient2: #9aa5f2;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="candyCane"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: red;
     --gradient2: white;
+    --text-color: white;
+    --font-family: "Montserrat", sans-serif;
+}
+body[theme="hyper"] {
+    --background-color: #171818;
+    --navbar-color: #1c1d1d;
+    --gradient1: #e66faf;
+    --gradient2: #3893e5;
     --text-color: white;
     --font-family: "Montserrat", sans-serif;
 }
