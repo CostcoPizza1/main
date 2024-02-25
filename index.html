@@ -2,29 +2,29 @@
 <html>
 
 <head>
-    <title>Costco Pizza Games</title>
-    <link rel="stylesheet" href="css/main.css" />
-    <link rel="stylesheet" href="css/navbar.css" />
+	<title>Costco Pizza Games</title>
+	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="css/navbar.css" />
 </head>
 
 <body theme="costco">
-    <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="pages/games.html">Games</a></li>
-        <li><a href="pages/apps.html">Apps</a></li>
-    </ul>
-    <div class="centered-container">
-        <h1>Welcome to <span class="gradientText">Costco Pizza Games</span></h1>
-        <h2 id="splashText"></h2>
-        <a href="pages/settings.html"><img src="assets/images/settingsIcon.gif" class="homePageIcons"></a>
-        <a href="pages/info.html"><img src="assets/images/infoIcon.gif" class="homePageIcons"></a>
-    </div>
+	<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="pages/games.html">Games</a></li>
+		<li><a href="pages/apps.html">Apps</a></li>
+	</ul>
+	<div class="centered-container">
+		<h1>Welcome to <span class="gradientText">Costco Pizza Games</span></h1>
+		<h2 id="splashText"></h2>
+		<a href="pages/settings.html"><img src="assets/images/settingsIcon.gif" class="homePageIcons"></a>
+		<a href="pages/info.html"><img src="assets/images/infoIcon.gif" class="homePageIcons"></a>
+	</div>
 </body>
 <script src="js/splashTextList.js"></script>
 <script src="js/settings.js"></script>
 <script>
-    console.log("Theme: " + localStorage.getItem("theme"));
-    document.body.setAttribute("theme", localStorage.getItem("theme"));
+	console.log("Theme: " + localStorage.getItem("theme"));
+	document.body.setAttribute("theme", themeSetting.value);
 </script>
 
 </html>
