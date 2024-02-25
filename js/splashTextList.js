@@ -13,8 +13,7 @@ var splashTextsList = [
   "Téléfrançais",
   "Info seem familiar? Don't talk shit about Costco Pizza.",
   "Dark humor is like food, not everyone gets it.",
-  "bigrat.monster",
-  "Alan Wood"
+  "bigrat.monster"
 ];
 
 document.getElementById("splashText").innerText = splashTextsList[Math.floor(Math.random() * splashTextsList.length)]
