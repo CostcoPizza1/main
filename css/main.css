@@ -1,9 +1,9 @@
 @import url(themes.css);
 
 body {
-    color: var(--text-color);
-    background-color: var(--background-color);
-    font-family: var(--font-family);
+  color: var(--text-color);
+  background-color: var(--background-color);
+  font-family: var(--font-family);
 }
 
 .centered-container {
@@ -14,10 +14,9 @@ body {
   text-align: center; /* Center the text horizontally */
 }
 
-
 h1 {
-    font-size: 2.75rem;
-    padding-bottom: 0%;
+  font-size: 2.75rem;
+  padding-bottom: 0%;
 }
 
 .gradientText {
@@ -48,7 +47,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2.25rem;
+  font-size: 2.25rem;
 }
 
 #theme-selector {
@@ -61,10 +60,38 @@ h2 {
   border: white;
 }
 
-
 .homePageIcons {
   height: 2.5rem;
   width: 2.5rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+}
+
+.gameBox {
+  height: 250px;
+  width: 500px;
+  --bgSize: 400%;
+  font-size: 36px;
+  color: transparent;
+  border-color: linear-gradient(
+    90deg,
+    var(--gradient1),
+    var(--gradient2),
+    var(--gradient1)
+  );
+  background-size: var(--bgSize) 100%;
+  border: 3px solid transparent;
+  animation: move-bg 10s infinite linear;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .gameBox {
+    animation: move-bg 10s linear infinite;
+  }
+}
+
+@keyframes move-bg {
+  to {
+    background-position: calc(var(--bgSize) * -1) 0;
+  }
 }
