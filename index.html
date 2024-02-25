@@ -16,15 +16,11 @@
     <div class="centered-container">
         <h1>Welcome to <span class="gradientText">Costco Pizza Games</span></h1>
         <h2 id="splashText"></h2>
-        <img src="assets/images/settingsIcon.gif" class="homePageIcons">
-        <img src="assets/images/infoIcon.gif" class="homePageIcons">
+        <a href="pages/settings.html"><img src="assets/images/settingsIcon.gif" class="homePageIcons"></a>
+        <a href="pages/info.html"><img src="assets/images/infoIcon.gif" class="homePageIcons"></a>
     </div>
 </body>
 <script src="js/splashTextList.js"></script>
 <script src="js/settings.js"></script>
-<script>
-    document.body.setAttribute('theme', localStorage.getItem("theme"));
-    console.log(localStorage.getItem("theme"))
-</script>
 
 </html>
