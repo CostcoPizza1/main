@@ -29,9 +29,10 @@
 	} else {
 		document.body.setAttribute("theme", "costco");
 	}
-	fetch('./assets/gameList.json')
-		.then((response) => response.json()) // Corrected: Call response.json() function
+	fetch('gameList.json')
+		.then((response) => response.json())
 		.then((json) => console.table(json.games));
+
 </script>
 
 </html>
