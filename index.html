@@ -29,7 +29,7 @@
 	} else {
 		document.body.setAttribute("theme", "costco");
 	}
-	fetch('gameList.json')
+	fetch('assets/gameList.json')
 		.then((response) => response.json())
 		.then((json) => console.table(json.games));
 
