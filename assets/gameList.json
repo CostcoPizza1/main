@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Slope",
+      "id": "s",
+      "img": "",
+      "src": ""
+    },
+    {
+      "name": "1v1.lol",
+      "id": "1v1lol",
+      "img": "",
+      "src": ""
+    },
+    {
+      "name": "OvO",
+      "id": "ovo",
+      "img": "",
+      "src": ""
+    },
+    {
+      "name": "Pokemon Emerald",
+      "id": "pe",
+      "img": "",
+      "src": ""
+    }
+  ]
+}
