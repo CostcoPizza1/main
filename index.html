@@ -28,10 +28,9 @@
 	} else {
 		document.body.setAttribute("theme", "costco");
 	}
-	fetch('assets/gameList.json')
+	fetch('assets/data/gameList.json')
 		.then((response) => response.json())
 		.then((json) => console.table(json.games));
-
 </script>
 
 </html>

@@ -1,97 +1,96 @@
 body[theme="costco"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #f2c94c;
-    --gradient2: #f2994a;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #f2c94c;
+  --gradient2: #f2994a;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="blend"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #4794fd;
-    --gradient2: #47fda0;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #4794fd;
+  --gradient2: #47fda0;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="satin"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #d73c43;
-    --gradient2: #8c1727;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #d73c43;
+  --gradient2: #8c1727;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="darkSteel"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #373b44;
-    --gradient2: #4286f4;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #373b44;
+  --gradient2: #4286f4;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="peony"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #d0aeff;
-    --gradient2: #e2cff9;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #d0aeff;
+  --gradient2: #e2cff9;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="shadow"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #6183ff;
-    --gradient2: #cdd3ff;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #6183ff;
+  --gradient2: #cdd3ff;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="legacy"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #70ceff;
-    --gradient2: #70ceff;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #70ceff;
+  --gradient2: #70ceff;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="creida"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #9ca5e1;
-    --gradient2: #373b50;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #9ca5e1;
+  --gradient2: #373b50;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="express"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #ac5288;
-    --gradient2: #3e1154;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #ac5288;
+  --gradient2: #3e1154;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="bubbleGum"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #f291d8;
-    --gradient2: #9aa5f2;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #f291d8;
+  --gradient2: #9aa5f2;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="candyCane"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: red;
-    --gradient2: white;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #ff0000;
+  --gradient2: #ffffff;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
 body[theme="hyper"] {
-    --background-color: #171818;
-    --navbar-color: #1c1d1d;
-    --gradient1: #e66faf;
-    --gradient2: #3893e5;
-    --text-color: white;
-    --font-family: "Montserrat", sans-serif;
+  --background-color: #171818;
+  --navbar-color: #1c1d1d;
+  --gradient1: #e66faf;
+  --gradient2: #3893e5;
+  --text-color: #ffffff;
+  --font-family: "Montserrat", sans-serif;
 }
-
